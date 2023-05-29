@@ -1,4 +1,4 @@
-# levantamento-2023
+# Levantamento BPLN 2023
 
 ### Lucylattes-extractor
 
@@ -8,3 +8,5 @@
 -	Editar o arquivo config.txt
 -	Rodar o script lucylattes: $ python3 lucyLattes.py 
 -	Se tudo der certo o relatório será gerado e colocado na pasta relatorio
+
+### Linkedin-extractor
