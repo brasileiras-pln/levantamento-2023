@@ -1,0 +1,364 @@
+Data-Driven and Psycholinguistics-Motivated Approaches to Hate Speech Detection
+Transfer learning by mapping and revising boosted relational dependency networks
+Success prediction of crowdfunding campaigns: a two-phase modeling
+Visual exploration of rating datasets and user groups
+Leitura distante em português: resumo do Primeiro Encontro
+Multilevel data fusion for the internet of things in smart agriculture
+Simplificação textual como perspectiva para a formação do tradutor e revisor Um estudo sobre textos de museus
+Simplificação, acessibilidade textual e tradução em ambientes multilíngues
+Multilingual Transformer Ensembles for Portuguese Natural Language Tasks
+Location prediction: a deep spatiotemporal learning from external sensors data
+A metacognição em leitura e sua relação com proficiência leitora em L1 e L2:um estudo experimental
+Influência Translinguística na Aprendizagem de Inglês por Surdos
+Lexical-semantic integration by good and poor reading comprehenders
+Similar gene expression profiles define leptospirosis clinical outcomes
+Análise da concordância entre prontuário eletrônico e notificações no registro de quedas: estudo de coorte
+Brazilian version of -The Insulin Delivery System Rating Questionnaire-: translation, cross-cultural adaptation and validation
+PragmaticOIE: A Pragmatic Open Information Extraction for Portuguese language
+A short survey on end-to-end simple question answering systems
+A multimodal approach for multi-label movie genre classification
+Elaboração, validação e adequação de protocolo para aplicativo em diabetes tipo 1
+Inteligencia Artificial no apoio a tomada de decisões no direito tributário
+Aproximações ao cenário das humanidades digitais no Brasil
+A Multilabel Approach to Portuguese Clinical Named Entity Recognition
+COVID 19: O que sentem os brasileiros de acordo com o Twitter?
+Infodemia, Fake News and Medicine: Science and The Quest for Truth
+Smart Green: An Internet-of-Things Framework for Smart Irrigation
+Multilingual aspect clustering for sentiment analysis
+Traçando o perfil de bons leitores e de leitores com dificuldades de compreensão
+Personality-dependent content selection in natural language generation systems
+Verbal fluency in Alzheimer's disease and mild cognitive impairment in individuals with low educational level and its relationship with reading and writing habits
+Using machine learning techniques to analyze the performance of concurrent kernel execution on GPUs
+Periodização automática:Estudos linguístico-estatísticos de literatura lusófona
+Acessibilidade textual e terminológica
+Latino Students Patient Safety Questionnaire: cross-cultural adaptation for Brazilian nursing and medical students
+Subjetividade em correções de redações
+Automated classification of social network messages into Smart Cities dimensions
+Padrões linguísticos para detecção de ironia em múltiplos idiomas
+A Graph-Based Method for Predicting the Helpfulness of Product Opinions
+Acessibilidade textual e terminológica: promovendo a tradução intralinguística
+Modelagem da linguagem e do contexto na teoria sistêmico-funcional
+Development and validation of an instrument to assess users? conceptual and procedural knowledge of continuous subcutaneous infusion systems
+Early prediction of ICU readmissions using classification algorithms
+Macrostructural Aspects of Narrative Discourse in Left- and Right-Hemisphere Stroke in Brazilian Portuguese Speakers with Low Education
+Multimodal Provenance-based Analysis of Collaboration in Business Processes
+Investigating alignment interpretability for low-resource NMT
+Literacy, metalinguistic, and executive functions processing in bilingual children speakers of similar typology languages in a border area
+The Construction of a Corpus for Detecting Irony and Sarcasm in Portuguese
+Integration Model between Heterogeneous Data Services in a Cloud
+Overview of the IDPT Task on Irony Detection in Portuguese at IberLEF 2021
+Interventions to improve the well-being of family caregivers of patients on hemodialysis and peritoneal dialysis: a systematic review
+Exploring BERT for Aspect Extraction in Portuguese Language
+A Human-machine Cooperation Protocol for Machine Translation Output Edit Annotation
+Estudo Exploratório através de Análises Longitudinais aplicado à Ciência da Computação a partir da Base de Dados do ENADE
+Acessibilidade textual e terminológica para o português brasileiro: pesquisa, estratégias e orientações de [re]escrita simplificada
+Avaliação da produção discursiva oral no envelhecimento e sua relação com escolaridade e hábitos de leitura e escrita: uma revisão sistemática
+Energy disruptive centrality with an application to criminal network
+An incremental reinforcement learning scheduling strategy for data-intensive scientific workflows in the cloud
+Learning multiple concepts in description logic through three perspectives
+Predicting Popularity of Video Streaming Services with Representation Learning: a survey and a real-world case study
+A survey on the use of data and opinion mining in social media to political electoral outcomes prediction
+Provenance-and machine learning-based recommendation of parameter values in scientific workflows
+Uma proposta de coextensividade entre termo técnico, grupo nominal e item lexical no português brasileiro: um estudo com base em ferramentas da linguística de corpus sob o arcabouço de teoria sistêmico-funcional / A proposal of coextensiveness between technical term, nominal group, and lexical item in Brazilian Portuguese: a study based on corpus linguistics? software within the framework
+An investigation of linguistic problems in automatic multi-document summaries / Uma investigação de problemas linguísticos em sumários automáticos multidocumento
+Tradução intralinguística, estratégias de equivalência e acessibilidade textual e terminológica
+Sentiment Analysis with Genetic Programming
+Neuroanatomical correlates of macrolinguistic aspects in narrative discourse in unilateral left and right hemisphere stroke: A voxel-based morphometry study
+Using Virtual Learning Environment Data for the Development of Institutional Educational Policies
+O ensino de Português como Língua Estrangeira: reflexões a partir da produção escrita de alunos chineses
+Manifeste-se: identidade e literatura na Amazônia
+Chatbot as a Telehealth Intervention Strategy in the COVID-19 Pandemic
+Prosody and Corpora
+O SISTEMA DO PROJETO ATLAS LINGUÍSTICO DO BRASIL: ANÁLISE LINGUÍSTICA AUTOMATIZADA
+Stroke Outcome Measurements From Electronic Medical Records: Cross-sectional Study on the Effectiveness of Neural and Nonneural Classifiers
+Low Speech Connectedness in Alzheimer?s Disease is Associated with Poorer Semantic Memory Performance
+Enriching the 1758 Portuguese Parish Memories (Alentejo) with Named Entities
+Do texto ao dado: debates sobre leitura distante nas humanidades
+Towards smart farming: Fog-enabled intelligent irrigation system using deep neural networks
+Fake news e desinformação sobre vacinas: contribuições dos estudos da Terminologia, do Texto e do Discurso
+Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach
+Empowerment-oriented strategies to identify behavior change in patients with chronic diseases: An integrative review of the literature
+Medicina em português no século XVIII: desafios da Terminologia Diacrônica no cenário das Humanidades Digitais
+Quality of argumentation in political tweets: what is and how to measure it
+Multidimensional Factors Can Explain the Clinical Worsening in People With Parkinson's Disease During the COVID-19 Pandemic: A Multicenter Cross-Sectional Trial
+PCV50 Automatic Classification of Electronic Health Records for a Value-Based Program through Machine Learning
+A Definição Terminológica em Libras: Rumos e Frentes de Pesquisa
+Inferência de tópicos para identificação de subáreas temáticas de projetos culturais
+A poética amazônica pela perspectiva dialógica na obra de Adalcinda Camarão
+Dynamic Preference Logic meets iterated belief change: Representation results and postulates characterization
+Foundational ontologies meet ontology matching: A survey
+Online Deep Learning Hyperparameter Tuning based on Provenance Analysis
+Improving the Creation of Hot Spot Policing Patrol Routes: Comparing Cognitive Heuristic Performance to an Automated Spatial Computation Approach
+Linguística de Corpus: conquistas e desafios / Corpus Linguistics: achievements and challenges
+Portuguese word embeddings for the oil and gas industry: Development and evaluation
+Machine learning approach for automatic recognition of tomato-pollinating bees based on their buzzing-sounds
+Comparison and Choice of Computational Architectures Based on Cost-Value Approach
+Aquisição de Inglês como L3 por surdos brasileiros usuários de Libras como L1: Considerações teórico-pedagógicas
+Sense representations for Portuguese: experiments with sense embeddings and deep neural language models
+A systematic review of question answering systems for non-factoid questions
+Como o distanciamento social em tempos de pandemia pode afetar os estágios iniciais da aprendizagem da leitura em crianças
+Exploring BERT for Aspect-based Sentiment Analysis in Portuguese Language
+Multi-Agent Interaction to Assist Visually-Impaired and Elderly People
+Evaluation of Automatic Speech Recognition Approaches
+Reading and writing habits compensate for aging effects in speech connectedness
+Macrostructural aspects in oral narratives in Brazilian Portuguese by left and right hemisphere stroke patients with low education and low socioeconomic status
+Lower education and reading and writing habits are associated with poorer oral discourse production in typical adults and older adults
+A Model-Driven Approach for Interoperability Among SaaS and DaaS/DBaaS: The MIDAS Case
+Clinical Trial Classification of SNS24 Calls with Neural Networks
+Identifying family ties among politicians: Challenges of information extraction evaluation
+Construindo fichas terminológicas para estudos sócio-históricos
+Fake News Detection in Tweets: Challenges and Adaptations imposed by the COVID-19
+User intent classification in noisy texts: an investigation on neural language models
+XPTA: um parser AMR para o PortuguÃªs baseado em uma abordagem entre lÃ­nguas
+Linguagem oral e escrita no Transtorno do Espectro do Autismo: perspectivas teóricas e pedagógicas
+A Linguistic Approach To Health Literacy In Brazil: Terminological Aspects
+Neuroanatomical correlates of macrostructural receptive abilities in narrative discourse in unilateral left hemisphere stroke: A behavioural and voxel-based morphometry study
+DptOIE: a Portuguese open information extraction based on dependency analysis
+Tratamento computacional do português brasileiro
+ALiBWeb
+Semantic interoperability in health records standards: a systematic literature review
+HELD: Hierarchical entity-label disambiguation in named entity recognition task using deep learning
+Um ?olhar discursivo? sobre predicação e gênero: aproximações metodológicas entre corpus e discurso
+XPTA: um parser AMR para o português baseado em uma abordagem entre línguas
+ANÁLISE DOS TERMOS -DOR- E -GUAPO- PRESENTES NO ATLAS LINGUÍSTICO GALEGO E SUA VITALIDADE NO TWITTER: UMA PROPOSTA METODOLÓGICA
+Characterization of the Mobile User Profile Based on Sentiments and Data Consumption Attributes
+A rapid review of machine learning approaches for telemedicine in the scope of COVID-19
+A audiodescrição sob a perspectiva da Semântica de Frames: um estudo exploratório
+Reading comprehension is modulated by lexical-semantic knowledge in skilled and less-skilled comprehenders
+Natural Language Processing in the Oil Gas Industry: Challenges, Applications and Future Trends
+Modeling Trajectories Obtained from External Sensors for Location Prediction via NLP Approaches
+Brazilian Portuguese Hate Speech Classification using BERTimbau
+Telehealth usability evaluation by healthcare professionals in post-pandemic treatment of non-communicable diseases (hypertension and diabetes): Systematic Review Protocol
+A probabilistic approach to the distribution of subject and anacoluthon nps in topics in spontaneous speech
+ABSAPT 2022 at IberLEF: Overview of the Task on Aspect-Based Sentiment Analysis in Portuguese
+Manual de anotação como recurso de Processamento de Linguagem Natural
+Evaluating user experience with a chatbot designed as a public health response to the Covid-19 pandemic in Brazil: a mixed-methods study (Preprint)
+Construindo uma terminologia de raiz: textos legislativos sob exploração terminológica
+Qual é a relação entre o poder das fake news e o nível de compreensão profunda da leitura?
+Learning attention-based representations from multiple patterns for relation prediction in knowledge graphs
+Evaluating a typology of signals for automatic detection of complementarity
+Clinical Screening Prediction in the Portuguese National Health Service: Data Analysis, Machine Learning Models, Explainability and Meta-Evaluation
+A survey on narrative extraction from textual data
+Sentiment analysis in tweets: an assessment study from classical to modern word representation models
+Risco de queda relacionado a medicamentos em hospitais: abordagem de aprendizado de máquina
+
+An Assessment of Language Identification Methods on Tweets and Wikipedia Articles
+CONLL Dependency Parser: Extrinsic Evaluation through the Open Information Extraction task
+Word Embeddings at Post-Editing
+BabelEnconding at SemEval-2020 Task 3: Contextual Similarity as a Combination of Multilingualism and Language Models
+Controlador Fuzzy para Monitoramento Agrícola Contextualizado
+Exploiting points of interest for predictive policing
+Extração de Aspectos em Português Utilizando BERT
+Expansão de um Framework de Análise de Sentimentos em Português utilizando Técnicas de Aprendizado de Máquina
+English-Portuguese parallel corpus made of song lyrics
+O duplo na narrativa da cobra grande em Bujaru: uma análise semiótica dos signos
+Vitalidade dos termos do ALiB no Twitter,
+Information Extraction from historical texts: a Case Study
+O fortalecimento da identidade surda no processo de aquisição da Libras
+The Construction of a Corpus for Detecting Irony and Sarcasm in Portuguese
+Construção do Corpora Calendário Brasileiro de Saúde
+Looking at Body Expressions to Enrich Emotion Clusters
+COVID 19: O que sentem os brasileiros de acordo com o Twitter?
+The Role of Digital Educational Resources in the Learning of People with Intellectual Disabilities.
+Transfer learning for Twitter sentiment analysis: Choosing an effective source dataset
+A Multilabel Approach to Portuguese Clinical Named Entity Recognition
+Towards Fully Automated News Reporting in Brazilian Portuguese
+Comunicação do grotesco: o vernacular na mídia televisiva
+Deep Learning Brasil - NLP at SemEval-2020 Task 9: Sentiment Analysis of Code-Mixed Tweets Using Ensemble of Language Models
+Modelando Traços de Personalidade a partir de Roteiros da  Série Friends utilizando Redes Neurais Profundas
+Utilizando  BERT para Análise de Sentimento em Corpora de Língua Portuguesa
+Building The First English-Brazilian Portuguese Corpus for Automatic Post-Editing
+Referring to what you know and do not know: Making Referring Expression Generation Models Generalize To Unseen Entities
+Vitality analysis of the Linguistic Atlas of Brazil on Twitter
+Intrinsic and Extrinsic Evaluation of the Quality of Biomedical Embeddings in Different Languages
+Fall Detection in Clinical Notes using Language Models and Token Classifier
+Exploração de conhecimento lexical, sintático, semântico e estatístico na classificação automática de sentenças semanticamente similares do português
+Model-centered Ensemble for Anomaly Detection in Time Series
+A Tecnologia Assistiva e a Inclusão Educacional de Pessoas com Deficiência: um mapeamento sistemático da literatura
+Word Embedding Evaluation in Downstream Tasks and Semantic Analogies
+Técnicas de Pré processamento em Textos Advindos da Web
+Classifying Web page features to detect DaaS
+Sentence Compression on Domains with Restricted Labeled Data Availability
+Aspect Term Extraction Using Deep Learning Model with Minimal Feature Engineering.
+See and Read: Detecting Depression Symptoms in Higher Education Students Using Multimodal Social Media Data
+Investigating Language Impact in Bilingual Approaches for Computational Language Documentation
+Leveraging Contextual Embeddings and Idiom Principle for Detecting Idiomaticity in Potentially Idiomatic Expressions
+REFLEXÕES SOBRE A CLASSIFICAÇÃO DA QUALIDADE ACÚSTICA DE DADOS DE CORPORA ORAIS
+Identifying and Fusing Duplicate Features for Data Mining
+Acentua Fácil: Sistema de Auxílio à Acentuação do Português Brasileiro
+Utilizando BERT para a Tarefa de Pergunta-Resposta em Língua Portuguesa
+Explainable OpenIE Classifier with Morpho-syntactic Rules
+CrossOIE: Cross-lingual classifier for Open Information Extraction
+Offensive Video Detection: Dataset and Baseline Results
+Augmenting Linguistic Semi-Structured Data for Machine Learning - A Case Study using Framenet
+O Uso do Material ULTEMT 9085 na Indústria Automotiva: Análise dos efeitos da Orientação de Construção Sobre os Custos de Produção
+A Machine Learning Early Warning System: Multicenter Validation in Brazilian Hospitals
+Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
+Multimodal Classification of Emotions in Latin Music
+DaMata: A Robot-Journalist Covering the Brazilian Amazon Deforestation
+Anomaly Detection in Trajectory Data with Normalizing Flows
+Computing with Subjectivity Lexicons
+Prediction of crime location in a brazilian city using regression techniques
+Acessibilidade textual e terminológica para adultos de escolaridade limitada no Brasil: da Ferramenta MedSimples para além
+A Lexical Simplification Tool for Promoting Health Literacy
+Towards semantic alignment of heterogeneous structures and its application to digital humanities
+Enhancing Semantic Interoperability on MIDAS with Similar DaaS Parameters
+Music4All: A New Music Database and Its Applications
+Implicações da literatura na construção identitária em contextos de vulnerabilidade social
+Tradução literária no ensino da Língua inglesa
+Neurociência e cognição: padrão de produção discursiva em doença de Alzheimer
+Dialogismo e carnavalização: identidade e alteridade no Auto do Círio
+Um relato de experiência sobre o ensino de Introdução à programação no contexto da educação a distância
+Construção de Datasets para Segmentação Automática de Hashtags
+Benchmarking Machine Learning Solutions in Production
+BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition
+Semantic similarity attributes for Data Cloud: A Case Study in MIDAS
+Evaluating the performance and improving the usability of parallel and distributed Word Embeddings tools
+Avaliação dos Resultados de um Programa Governamental de Aceleração de Startups: o caso Start-up Brasil
+C-ORAL-BRASIL and its resources
+SpiNet - A FrameNet-like Schema for Automatic Information Extraction about Spine from Scientific Papers
+A Deep Learning Model of Common Sense Knowledge for Augmenting Natural Language Processing Tasks in Portuguese Language
+Assessing the Impact of OCR Errors in Information Retrieval
+A Comparison of Identification Methods of Brazilian Music Styles by Lyrics
+Primeiro arquétipo brasileiro na plataforma openEHR para interoperabilidade semântica de dados com foco na COVID-19
+Portuguese Language Models and Word Embeddings: Evaluating on Semantic Similarity Tasks
+Evaluating Sentence Segmentation in Different Datasets of Neuropsychological Language Tests in Brazilian Portuguese
+Player Behavior Profiling through Provenance Graphs and Representation Learning
+Análise de Colaboração em Processos de Negócio por meio de SGBDs de Grafos e Dados de Proveniência Multimodais
+FERRAMENTA MEDSIMPLES, ACESSIBILIDADE TEXTUAL E TERMINOLÓGICA EM CUIDADOS COM A CRIANÇA: REVISÃO CRÍTICA DE UM GLOSSÁRIO DE TERMOS TÉCNICOS DA ÁREA DA SAÚDE
+MedSimples: an automated simplification tool for promoting health literacy in Brazil
+Detecting Group Beliefs Related to 2018's Brazilian Elections in Tweets: A Combined Study on Modeling Topics and Sentiment Analysis
+Online Clustering of Trajectories in Road Networks
+NMT and PBSMT Error Analyses in English to Brazilian Portuguese Automatic Translations
+Model for Bayesian Networks Conversion from Summary-Based Health Ontologies
+Dense Captioning Using Abstract Meaning Representation
+Chatbot as support to decision-making in the context of natural resource managemen
+sOCRates - a post-OCR text correction method
+Enriching datasets for sentiment analysis in tweets with instance selection
+Heterogeneous Graph Dataset with Feature Set Intersection through Game Provenance
+Measuring the Degree of Divergence when Labeling Tweets in the Electoral Scenario
+Exploring model transfer strategies for sentiment analysis in Twitter
+Evaluation of Automatic Speech Recognition Systems
+REGIS: A Test Collection for Geoscientific Documents in Portuguese
+Acentua Fácil: A system to support Brazilian Portuguese Accentuation
+A GPT-2 Language Model for Biomedical Texts in Portuguese
+Related Named Entities Classification in the Economic-Financial Context
+Evaluating Recognizing Question Entailment Methods for a Portuguese Community Question-Answering System about Diabetes Mellitus
+Portinari - a Large Multi-genre Treebank for Brazilian Portuguese
+Committee of NAS-based models
+Probing for idiomaticity in vector space models
+Brat2Viz: a Tool and Pipeline for Visualizing Narratives from Annotated Texts
+CurL-AutoML: Curriculum Learning-based AutoML
+MetaPrep: Data preparation pipelines recommendation via meta-learning
+A domain specific language to provide middleware for interoperabilityamong SaaS and DaaS/DBaaS through a metamodel approach
+AI Game Agents based on Evolutionary Search and (Deep) Reinforcement Learning: a Practical Analysis with Flappy Bird
+Enriching the E2E dataset
+On auxiliary verb in Universal Dependencies: untangling the issue and proposing a systematized annotation strategy
+Gamification and civic engagement in digital government applications: a review
+Relation extraction in structured and unstructured data: a comparative investigation on smartphone titles in the e-commerce domain
+Classificação multimodal para detecção de produtos proibidos em uma plataforma marketplace
+Exploring BERT for Aspect Extraction in Portuguese Language
+Measuring Brazilian Portuguese Product Titles Similarity using Embeddings
+Identificando sintomas de depressão em postagens do Twitter em português do Brasil
+Text Classification in Legal Documents Extracted from Lawsuits in Brazilian Courts
+Literatura Surda Amazônica: adaptação de um conto de Walcyr Monteiro
+Towards a Pragmatic Interoperability on the MIDAS Middleware
+Engenharia de features linguísticas para classificação de triplas relacionais
+Detection of weapon possession and fire in Public Safety surveillance cameras
+Universal Dependencies for tweets in Brazilian Portuguese: Tokenization and Part of Speech Tagging.
+Learning rules for automatic identification of implicit aspects in Portuguese
+Simplification as transposition of language barriers: Popularization of science through museum texts
+Representação da Interação em Fóruns de Discussão On-line: uma Revisão Sistemática Integrativa
+A obra de Gilberto Velho: uma leitura distante para observar o familiar
+Utilizando BERTimbau para a Classificação de Emoções em Português
+Enriquecimento Semi-Automático de uma Ontologia de Domínio em Português Utilizando Redes Neurais Recorrentes
+Utilizando Pistas Linguísticas para Detectar Notícias Falsas em Português
+Corpora do Calendário de Saúde
+Detecção de discurso de ódio em português usando BERT
+Desenvolvimento de um Aplicativo para Classificar Sentimentos de Tweets em Tempos de Pandemia
+Utilizando BERTimbau e Tradução Automática na Tarefa de Classificação de Emoções em Sentenças
+PorTinari - a large multi-genre treebank for Brazilian Portuguese
+Análise da inclusão escolar e da criminalidade surda: uma perspectiva histórica das relações de poder
+Experiments on Portuguese Clinical Question Answering
+PUCRJ-PUCPR-UFMG at eHealth-KD Challenge 2021: A Multilingual BERT-based System for Joint Entity Recognition and Relation Extraction
+Análise de Sentimentos: Avaliando o Desempenho de Pré-Processamento e de Algoritmos de Aprendizagem de Máquina sobre o Dataset TweetSentBR
+Análise experimental para a detecção de objetos em vídeos de câmeras de vigilância - Uma abordagem para porte de arma, incêndio e pichação
+Designing Reinforcement Learning Agents for Traffic Signal Control with the Right Goals: a Time-Loss based Approach
+Extracting Textual Features from Video Streaming Services Publications to Predict their Popularity
+Algoritmos para Identificação de Dados Frios em Bancos de Dados em Memória
+Transfer learning for boosted relational dependency networks through genetic algorithm
+SARS event notification: template openEHR brasileiro para interoperabilidade semântica de dados com foco na Covid-19
+Descrição preliminar do corpus DANTEStocks: diretrizes de segmentação para anotação segundo Universal Dependencies
+Sistemas de Informação em Saúde: tecnologias e inovações em tempos de pandemia
+Brat2viz: a tool and pipeline for visualizing narratives from annotated texts
+Assessing the Impact of Stemming Algorithms Applied to Brazilian Legislative Documents Retrieval
+FAKE NEWS E DESINFORMAÇÃO SOBRE VACINAS: O QUE OS ESTUDOS DO LÉXICO TÊM A DIZER?
+POR UMA TERMINOLOGIA DIACRÔNICA: ENFOQUES HISTÓRICOS DAS LINGUAGENS ESPECIALIZADAS
+Construção de Identidade e o Curso de Letras: Trajetórias de uma Estudante Negra
+Opportunities and Challenges in Fall Risk Management using EHRs and Artificial Intelligence: A Systematic Review
+Mapping across relational domains for transfer learning with word embeddings-based similarity
+Screening for Depressed Individuals by Using Multimodal Social Media Data
+MIDAS-OWL: An Ontology for Interoperability between Data and Service Cloud Layers
+Um Estudo de Pistas Linguísticas para Detectar Notícias Falsas Escritas em Língua Portuguesa
+Named Entity Recognition for Brazilian Portuguese Product Titles
+Using Deep Learning for Trajectory Classification
+SABERES MÉDICOS EM PORTUGUÊS NO SÉCULO 18: ENTRE CIRURGIÕES E MÉDICOS
+A Multilingual BERT-based System for Joint Entity Recognition and Relation Extraction
+A Comparative Analysis of Machine Learning Named Entity Recognition Tools for the Brazilian and European Portuguese Language Variants
+BRCars: a Dataset for Fine-Grained Classification of Car Images
+Análise de polaridade e de tópicos em tweets no domínio da política no Brasil
+Predicting the Next Location for Trajectories From Stolen Vehicles
+Sentiment Analysis in Portuguese Texts from Online Health Community Forums: Data, Model and Evaluation
+Identifying Duplicate Police Reports
+A Plugin for Analysis the Usage of Virtual Courses in the Moodle Platform
+Mineração de Texto no Twitter: uma ferramenta auxiliar na detecção de epidemias
+Crime Monitor: Monitoring Criminals from Trajectory Data
+Similarity-based Dataset Recommendation across Languages and Domains to Sentiment Analysis in the Electoral Domain
+Brazilian Portuguese: Spoken, Written and Diachronic Corpora
+INF-UFRGS at SemEval-2022 Task 5: analyzing the performance of multimodal models
+Apropriação de ferramentas tecnológicas para a divulgação científica: eCÓDICE
+Criação de Conjuntos de Dados Textuais Jurídicos em Português a partir de Processo de Extração e Heurística
+UFRGSent at SemEval-2022 Task 10: Structured Sentiment Analysis using a Question Answering Model
+When headers are not there
+EurOpi: Multilingual Aspect-Based Sentiment Analysis enabled by a Knowledge Base
+@WeatherNit: uma Plataforma Orientada a Dados para Monitoramento de Chuvas e Ocorrências de Eventos Climáticos
+Léxico e terminologias em um novo gênero textual do século XVIII: o manual para enfermeiros
+Exploring BERT for Aspect-based Sentiment Analysis in Portuguese Language
+Modelagem de Tópicos em Textos Curtos: uma Avaliação Experimental
+Comparative Analysis of Classification Algorithms Applied to Circular Trading Prediction Scenarios
+Large-scale Translation to Enable Response Selection in Low Resource Languages: A COVID-19 Chatbot Experiment
+Os verbos de pensamento no português brasileiro: uma classificação na ótica da Gramática de Construções
+ExQuestions: An Expanded Factual Corpus for Question Answering over Knowledge Graphs
+The place of ISO-Space in Text2Story multilayer annotation scheme
+Expanding UlyssesNER-Br Named Entity Recognition Corpus with Informal User-generated Tex
+Ulysses-RFSQ: a novel method to improve Legal Information Retrieval based on Relevance Feedback
+Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches
+UC3M-PUCPR at SemEval-2022 Task 11: An Ensemble Method of Transformer-based Models for Complex Named Entity Recognition
+TRADUÇÃO INTRALINGUÍSTICA, PROMOÇÃO DA ACESSIBILIDADE TEXTUAL E TERMINOLÓGICA E FACILITAÇÃO DE INFORMAÇÃO TÉCNICOCIENTÍFICA PARA PESSOAS LEIGAS
+Using Topic Modeling in Classification of Brazilian Lawsuits
+Análise do posicionamento dos usuários do Twitter acerca da Vacinação Infantil contra a COVID-19 no Brasil
+A data-centric approach for predicting individual outcomes in a multi-party legislative system
+Um sistema web para a análise semântica do português baseada no formalismo AMR
+Expanding UlyssesNER-Br Named Entity Recognition Corpus with Informal User-generated
+Towards Image Captioning for the Portuguese language: evaluation on a Translated Dataset.
+Improving Multilabel Text Classification with Stacking and Recurrent Neural Networks
+Evaluating multimodal strategies for multi-label movie genre classification
+UlyssesSD-Br: Stance Detection in Brazilian Political Polls
+Unsupervised Aspect Term Extraction for Sentiment Analysis through Automatic Labeling
+EVOCA PROJECT: AN INTERDISCIPLINARY APPROACH ON LANGUAGE PROCESSING IN THE ANIMAL AND HUMAN BRAIN
+Impact of Morphological Segmentation on Pre-trained Language Models
+Multilingual and Multimodal Learning for Brazilian Portuguese
+Anotação de textos não canônicos: um estudo exploratorio de Grande sertão: veredas pelas dependências universais
+Brazilian Portuguese Hate Speech Classification using BERTimbau
+Identifying family ties among politicians: Challenges of information extraction evaluation
+Utilizando BERTimbau para a classificação de discurso de ódio em português
+Expansão de um Framework de Análise de Sentimento para a Língua Portuguesa através do uso de Técnicas de Aprendizado Profundo
+Monitoria em Ensino Remoto: Lógica para Computação
+C-BOT: Um protótipo de chatterbot para o ensino de programação
+Currículo Base para o Ensino de Pensamento Computacional para Pessoas com Deficiência Intelectual e Múltipla: um relato de experiência com usuários da APAE de Serra Talhada-PE
+FORMAÇÃO DE AGENTES PÚBLICOS PARA A ESCRITA DE EDITAIS ACESSÍVEIS: ACESSIBILIDADE TEXTUAL E TERMINOLÓGICA COMO METODOLOGIA
+A Modality-level Explainable Framework for Misinformation Checking in Social Networks
+Combining word embeddings-based similarity measures for transfer learning across relational domains
+Detecting Depression from Social Media Data as a Multiple-Instance Learning Task
+PortNOIE: A neural framework for Open Information Extraction for the Portuguese language
+Contextual exploration of mathematical formulae on the web for people with visual disabilities in brazil with an open-source screen reader
